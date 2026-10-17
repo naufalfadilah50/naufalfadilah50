@@ -2,16 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Naufal!&fontSize=36&fontColor=fff&fontFamily=Teko&animation=fadeIn&desc=Web%20&%20Mobile%20Developer%20|%20CS%20Student&descSize=18&descAlign=51&descAlignY=75" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+%26+Mobile+Apps;Computer+Science+Student+at+Esa+Unggul;Passionate+about+PHP%2C+Laravel+%26+JavaScript;Exploring+Cyber+Security+Journey+🛡️" alt="Typing SVG" />
-  </a>
-</p>
+<h2 align="center">
+  🚀 Web & Mobile App Developer | Computer Science Student at Universitas Esa Unggul
+</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naufalfadilah50&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/badge/STATUS-SEMESTER%205-orange?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/FOCUS-FULLSTACK%20%26%20MOBILE-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/CYBER%20SECURITY-LEARNING%20JOURNEY-blueviolet?style=for-the-badge&logo=security&logoColor=white" />
 </p>
 
 ---
