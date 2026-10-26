@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,javascript,html,css,tailwind,mysql,git,github,vscode,virtualbox,discord&perline=6" />
 </p>
 
-* **Local Environment & Simulation:** Laragon, Cisco Packet Tracer, Oracle VirtualBox, Logisim-evolution, CPU-OS Simulator.
+- **Local Environment & Simulation:** Laragon, Cisco Packet Tracer, Oracle VirtualBox, Logisim-evolution, CPU-OS Simulator.
 
 ---
 
